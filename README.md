@@ -1,2 +1,4 @@
 # SeleniumPOM
-Examples for Selenium Webdriver + POM  (Page Object Model)
+Selenium Webdriver + POM  (Page Object Model)
+
+Web site (Login test): https://the-internet.herokuapp.com/login
